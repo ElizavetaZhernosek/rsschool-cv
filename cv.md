@@ -1,10 +1,14 @@
 # Elizaveta Zhernosek
 
+***
+
 ## Contacts 
 
 *Phone:* +375297128584
 
 *Email:* elizaweta.jernosek@gmail.com
+
+***
 
 ## Summary
 
@@ -25,8 +29,7 @@ In the near future I hope to become front-end developer.
 
 ## English
 
-At school and university I studied Germany. In 2017 I’ve decided I want to learn English.
-Now I have level B1.
-In my spare time I try to read in English and watch some video on YouTube in English. 
-Unfortunately I don’t have speaking practice.      
-By the way, at evening class in English I met the guys who told me about the programming courses.
+At school and university I studied Germany. In 2017 I’ve decided I want to learn English.  
+Now I have level **B1**.  
+In my spare time I try to read in English and watch some video on YouTube in English. Unfortunately I don’t have speaking practice.  
+*By the way, at evening class in English I met the guys who told me about the programming courses.*

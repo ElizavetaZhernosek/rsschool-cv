@@ -8,8 +8,11 @@
 ## Summary
 ## Skills
 Adobe Illustrator
+
 Adobe InDesign
+
 HTML
+
 CSS
 ## Experience
 I haven't had JavaScript development experience yet.
